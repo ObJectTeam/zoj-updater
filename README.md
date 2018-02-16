@@ -4,5 +4,5 @@ Automatically update ZOJ
 This is a lightweight software.
 This is Written in C++
 ## Use
-    1.Put the _zoj_ and the _zoj-updater_ in the same directory.
-    2.Run _zoj-updater/main_. 
+    1.Put the `zoj` and the `zoj-updater` in the same directory.
+    2.Run `zoj-updater/main`. 
